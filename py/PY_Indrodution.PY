@@ -1,3 +1,4 @@
+print("Olá Mundo")
 
 #Definição de variavel
 X =  10
