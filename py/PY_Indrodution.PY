@@ -1,3 +1,6 @@
+#cod syntax 
+
+# -*- coding: utf-8 -*-
 print("Olá Mundo")
 
 #Definição de variavel
