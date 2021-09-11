@@ -1,0 +1,6 @@
+x = 3
+y = 3
+
+x = y
+print(x)
+print(x==y)
