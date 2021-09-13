@@ -17,3 +17,16 @@ def intervalo(inic=1, fim=10):
 
 intervalo(1,10)
 
+#Variable sum e mult
+
+def soma (x,y):
+    return x+y
+    
+def mult(x,y):
+    return x*y
+
+s = soma(2,5)
+m =  mult(2,5)
+print(s)
+print(m)
+
